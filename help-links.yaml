@@ -83,7 +83,7 @@ menuBoard.view:
 
 display.view:
   - title: "Player Installation"
-    url: "https://xibosignage.com/docs/setup"
+    url: ""
     isAllowWhiteLabel: false
     summary: >
       Select the **Installation Guide** for your chosen Player
@@ -117,7 +117,7 @@ displayprofile.view:
 
 playersoftware.view:
   - title: "Upgrading Players"
-    url: "https://xibosignage.com/docs/setup/upgrading-players"
+    url: ""
     isAllowWhiteLabel: false
     summary: >
       Upgrading **Player** Versions
@@ -215,17 +215,17 @@ savedreport.view:
 
 log.view:
   - title: "Log"
-    url: "https://xibosignage.com/docs/setup/xibo-log-information"
+    url: ""
     isAllowWhiteLabel: false
     summary: >
-      Xibo **Log** Information
+      **Log** Information
 
 auditlog.view:
   - title: "Audit Trail"
-    url: "https://xibosignage.com/docs/setup/audit-trail-cms"
+    url: ""
     isAllowWhiteLabel: false
     summary: >
-      Xibo **Audit** Trail
+      **Audit** Trail
 
 fault.view:
   - title: "Troubleshooting"
